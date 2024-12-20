@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\WorkSpace\\NewRepo\\API_Demo_Authen_Author\\API_Demo_Authen_Author\\API_Demo_Authen_Author.csproj": {}
+    "C:\\Users\\admin\\Desktop\\WorkSpace\\API_Demo_Authen_Author\\API_Demo_Authen_Author\\API_Demo_Authen_Author.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\WorkSpace\\NewRepo\\API_Demo_Authen_Author\\API_Demo_Authen_Author\\API_Demo_Authen_Author.csproj": {
+    "C:\\Users\\admin\\Desktop\\WorkSpace\\API_Demo_Authen_Author\\API_Demo_Authen_Author\\API_Demo_Authen_Author.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\WorkSpace\\NewRepo\\API_Demo_Authen_Author\\API_Demo_Authen_Author\\API_Demo_Authen_Author.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\WorkSpace\\API_Demo_Authen_Author\\API_Demo_Authen_Author\\API_Demo_Authen_Author.csproj",
         "projectName": "API_Demo_Authen_Author",
-        "projectPath": "C:\\Users\\admin\\Desktop\\WorkSpace\\NewRepo\\API_Demo_Authen_Author\\API_Demo_Authen_Author\\API_Demo_Authen_Author.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\WorkSpace\\API_Demo_Authen_Author\\API_Demo_Authen_Author\\API_Demo_Authen_Author.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\WorkSpace\\NewRepo\\API_Demo_Authen_Author\\API_Demo_Authen_Author\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\WorkSpace\\API_Demo_Authen_Author\\API_Demo_Authen_Author\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
